@@ -45,7 +45,8 @@ We learned a lot about what keeps users engaged and what keeps them using the ap
 ## What's next for Gradify
 We wanted to extend Gradify out of the STEM world, and into just a world of "general stressors". We think that the world we live in now is, and for good reason, scared to share their flaws because of how they want to hold their self image. By using our app, we think that this will help create a better environment, not only in just STEM, but for people to be transparent about all issues.
 
-We would also like to further modularize our project so that we can implement React into Gradify. As of now it is just JS, HTML, CSS, but we would like to use React to make everything much cleaner and more scalable
+We would also like to further modularize our project so that we can implement React into Gradify. As of now it is just JS, HTML, CSS, but we would like to use React to make everything much cleaner and more scalable. As of now there is
+a lot of hardcoded pieces with the intent of getting a final working product to present on, but it would be nice to move away from a lot of EJS, and instead use more modern react tools so that once again, the software is built much more cleanly and is more scalable.
 
 ## Built With
 
