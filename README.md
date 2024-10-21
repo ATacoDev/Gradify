@@ -1,4 +1,6 @@
 
+<img width="238" alt="MeTo" src="https://github.com/user-attachments/assets/e88618c8-cc8b-4220-83d9-d4bc0cb35157">
+
 
 # Gradify
 A project made for UC Berkeley's Cal Hacks 11.0
