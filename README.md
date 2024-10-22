@@ -4,6 +4,8 @@ A project made for Cal Hacks 11.0 by Jaden Johnson, Krish Garg, Quillan Gee, and
 
 Link to Devpost submission: [Gradify](https://devpost.com/software/gradify)
 
+---
+
 Struggling with a STEM course? Didn’t ace that last exam? You’re not alone—and that’s exactly what Gradify is here to show you. Gradify is a platform designed to destigmatize academic struggles in STEM fields and help students see that one bad grade isn’t the end of the road. Instead, it’s part of a shared experience that many go through.
 
 Gradify creates a safe, anonymous space where students can openly share their academic challenges without fear of judgment. By normalizing the ups and downs of learning, the app turns setbacks into opportunities. When users post about their difficulties, they’re rewarded with personalized AI feedback, including:
